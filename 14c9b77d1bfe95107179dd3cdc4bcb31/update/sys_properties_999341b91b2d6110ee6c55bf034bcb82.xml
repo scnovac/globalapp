@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.kmf.vault.token</name>
+        <read_roles>maint</read_roles>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>sergiu.novac@snc</sys_created_by>
+        <sys_created_on>2023-03-13 17:04:12</sys_created_on>
+        <sys_id>999341b91b2d6110ee6c55bf034bcb82</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.kmf.vault.token</sys_name>
+        <sys_package display_value="Global App" source="14c9b77d1bfe95107179dd3cdc4bcb31">14c9b77d1bfe95107179dd3cdc4bcb31</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global App">14c9b77d1bfe95107179dd3cdc4bcb31</sys_scope>
+        <sys_update_name>sys_properties_999341b91b2d6110ee6c55bf034bcb82</sys_update_name>
+        <sys_updated_by>sergiu.novac@snc</sys_updated_by>
+        <sys_updated_on>2023-03-13 17:04:12</sys_updated_on>
+        <type/>
+        <value>{"expires_at":"2023-03-14 13:04:12","client_token":"b.AAAAAgKb4bfz7TPlljS_FYTy-8HZuZHuBwBOpKvk2olDt7_X2q1WVIVRdMRQKvwbMunPx3Dv-cwjH6bZGzO8Kqk2YnwPao8HuoHL2547X9mRBW1C1Pg2bwa9hLm67XUsqWitsLgY3wzcr-DWR82hYsn0tgVelPmOZAvcC4Iz4P0K58lmYCT57BMbqPYfN06ier6MGtbYsSW0HJEREGXydq9FEETU0N8efHsAcAj6YJdY8o0OkIfn4QHnZ1CE25T6E6bOMRJe8PWVQF-DIZ1Id97SrOgCP2Otd_csx00tQQgVJZwCeB4cyp5xNdtz1euVSIc2-wXcqoG-TL8qBgYlhOktl8E8i6wn-NvMsZYWqsEjyM7WC-ZxwQu8nscM9a7mhfDV9WPc5vOLXmlcFxJx9KZQ4--iDQS5J-TtUyGO2EEiqdgYRKvw0gVmxNd3-tf8VfIXg4k98RHkjJL_Y684R2qpk6-GkMuPuH_WVOtBRYi5h9hDED29NEcvlRF3tegwAwqnqJ3-4tCwFbAAOm5wCjr6V0hLG-NQ8n2LWAtZ5rYPZc6dgjFA7hJIkb3qq7LZt0VX4wuSJdKlFCQeJAD-vhLmfszZ9F-lZMUsRk8eEnXYFytHEmKurLe0rNe1THHthEbZrvhuLQJpLIhsNDZ5IEJX21XhYmPvDZx0vYGlsXiO-o6bzbgoo-0ez17Ca8B37StIWppAdocL3i54YMeTLyuB","lease_duration":"72000"}</value>
+        <write_roles>maint</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=999341b91b2d6110ee6c55bf034bcb82"/>
+</record_update>
