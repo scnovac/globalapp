@@ -17,10 +17,10 @@
         <sys_policy/>
         <sys_scope display_value="Global App">14c9b77d1bfe95107179dd3cdc4bcb31</sys_scope>
         <sys_update_name>sys_properties_999341b91b2d6110ee6c55bf034bcb82</sys_update_name>
-        <sys_updated_by>sergiu.novac@snc</sys_updated_by>
-        <sys_updated_on>2023-03-13 17:04:12</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-05-10 13:17:00</sys_updated_on>
         <type/>
-        <value>{"expires_at":"2023-03-14 13:04:12","client_token":"b.AAAAAgKb4bfz7TPlljS_FYTy-8HZuZHuBwBOpKvk2olDt7_X2q1WVIVRdMRQKvwbMunPx3Dv-cwjH6bZGzO8Kqk2YnwPao8HuoHL2547X9mRBW1C1Pg2bwa9hLm67XUsqWitsLgY3wzcr-DWR82hYsn0tgVelPmOZAvcC4Iz4P0K58lmYCT57BMbqPYfN06ier6MGtbYsSW0HJEREGXydq9FEETU0N8efHsAcAj6YJdY8o0OkIfn4QHnZ1CE25T6E6bOMRJe8PWVQF-DIZ1Id97SrOgCP2Otd_csx00tQQgVJZwCeB4cyp5xNdtz1euVSIc2-wXcqoG-TL8qBgYlhOktl8E8i6wn-NvMsZYWqsEjyM7WC-ZxwQu8nscM9a7mhfDV9WPc5vOLXmlcFxJx9KZQ4--iDQS5J-TtUyGO2EEiqdgYRKvw0gVmxNd3-tf8VfIXg4k98RHkjJL_Y684R2qpk6-GkMuPuH_WVOtBRYi5h9hDED29NEcvlRF3tegwAwqnqJ3-4tCwFbAAOm5wCjr6V0hLG-NQ8n2LWAtZ5rYPZc6dgjFA7hJIkb3qq7LZt0VX4wuSJdKlFCQeJAD-vhLmfszZ9F-lZMUsRk8eEnXYFytHEmKurLe0rNe1THHthEbZrvhuLQJpLIhsNDZ5IEJX21XhYmPvDZx0vYGlsXiO-o6bzbgoo-0ez17Ca8B37StIWppAdocL3i54YMeTLyuB","lease_duration":"72000"}</value>
+        <value>{"expires_at":"2023-05-11 09:17:00","client_token":"b.AAAAAgLoIs1dQDjAmUp9-oqcf5MVMJrQgOg_ZwuRc4JH1OtuKtQ5GM7YF38-mm_TYlFCMaS7hXOWWsDkafCysJMqydIpXLgqUIjCUb7E5Z3IAEXjZScXcM0hgQLBE06-ToLLoE8dwR2033GtQQcnwjPhYyevAj9HEvGlhjSBt0AbKa9FmPoz1HwMstdOwXToC8qZEVnCJXMH4amJnM6xappZ0sVTOkMa7YCnYfDzezuhoJp_uj7m3ZAaa3qzukoegJJEPLP7IwS5uMMR7_k7fLlGuBHZM-DfqXdPnE0y-w0kybECAq3Ci-YfWavXEd9Qv2GXK69_3MCDSG7XJOnesp3fL1ZcPZi_ZespZoOZfO-KaZjQq_C9AG3b0bIvpI5DJf09_UZF1QOgEnGQI-P7kUgAkpjWMDViVE2_w6fjVPrnuhF7zp16fqRfulrh7e23vtKgxBue8fBtjpu7Lqf4O44kx8sOXLxrznfanSfVOXud-l-J55Zz7WpzBT2fgcHIdw62ku1e5PoCRdIaYyKwOsX2dKd5-c3eWdRBr8VT977asTC7iUHVxgVesxyLpRDbjZpW7qjk7FxTYg9YDeZPDyvfBf2mjyHUKOjIsyfjOcStNUarNbQ7uyPCZ1wtJ6QMXIarb_TUS1YD8sDYIYlmgSnAwlikqaTCs6cGx5SYjy1d-BHKMh51LjijcXvHragkh1ckIgdnBoyA5mVYy3ai0lDq","lease_duration":"72000"}</value>
         <write_roles>maint</write_roles>
     </sys_properties>
     <sys_translated_text action="delete_multiple" query="documentkey=999341b91b2d6110ee6c55bf034bcb82"/>
